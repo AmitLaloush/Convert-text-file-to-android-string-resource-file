@@ -1,0 +1,1 @@
+# Convert-text-file-to-android-string-resource-file
