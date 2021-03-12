@@ -1,1 +1,1 @@
-# Convert-text-file-to-android-string-resource-file
+Converting a list of text to an android string resource file 
