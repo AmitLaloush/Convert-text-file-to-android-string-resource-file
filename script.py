@@ -4,7 +4,7 @@ fileContent = f.read().split("\n")
 counter = 0
 final_result = ""
 for line in fileContent:
-    leadind_string = "<string name=\"notification_body_morning"+ str(counter) + "\">"
+    leadind_string = "<string name=\"resource_name"+ str(counter) + "\">"
     ending_string = "</string>"
     filtered_line = line.lstrip()[3:].lstrip()
     
